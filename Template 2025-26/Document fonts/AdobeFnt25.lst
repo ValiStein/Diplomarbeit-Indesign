@@ -1,5 +1,5 @@
 %!Adobe-FontList 1.25
-%Locale:0x407
+%Locale:0x809
 
 %BeginFont
 Handler:DirectoryHandler
@@ -11,7 +11,7 @@ FullName:Minion Pro
 MenuName:Minion Pro
 StyleBits:0
 WritingScript:Roman
-OutlineFileName:C:\Users\Valerie Steiner\Documents\SJ25_26\DA\Indesign\Template 2025-26\Document fonts\MinionPro-Regular.otf
+OutlineFileName:C:\Users\sarah\Desktop\2025_26\Diplomarbeit\Konzept\InDesgin\Diplomarbeit-Indesign\Template 2025-26\Document fonts\MinionPro-Regular.otf
 DataFormat:sfntData
 UsesStandardEncoding:yes
 isCFF:yes
@@ -19,7 +19,7 @@ hasSVG:no
 hasCOLR:no
 VariableFontType:NonVariableFont
 FileLength:217280
-FileModTime:1773829578
+FileModTime:1774168393
 WeightClass:400
 WidthClass:5
 AngleClass:0
